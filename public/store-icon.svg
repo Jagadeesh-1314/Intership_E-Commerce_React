@@ -1,0 +1,29 @@
+<!-- store-icon.svg -->
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 64 64"
+  width="64"
+  height="64"
+  fill="none"
+>
+  <!-- Background Rectangle (Store Structure) -->
+  <rect x="8" y="24" width="48" height="32" fill="#4F46E5" rx="4" ry="4"/>
+
+  <!-- Store Awning -->
+  <rect x="4" y="16" width="56" height="12" fill="#3B82F6" />
+  <path d="M4 16 h8 v12 h-8 z" fill="#93C5FD" />
+  <path d="M12 16 h8 v12 h-8 z" fill="#3B82F6" />
+  <path d="M20 16 h8 v12 h-8 z" fill="#93C5FD" />
+  <path d="M28 16 h8 v12 h-8 z" fill="#3B82F6" />
+  <path d="M36 16 h8 v12 h-8 z" fill="#93C5FD" />
+  <path d="M44 16 h8 v12 h-8 z" fill="#3B82F6" />
+  <path d="M52 16 h8 v12 h-8 z" fill="#93C5FD" />
+
+  <!-- Store Door -->
+  <rect x="28" y="40" width="8" height="16" fill="#E5E7EB" rx="2" ry="2"/>
+  <circle cx="33" cy="48" r="1" fill="#111827" />
+
+  <!-- Windows -->
+  <rect x="12" y="36" width="8" height="8" fill="#93C5FD" rx="2" ry="2" />
+  <rect x="44" y="36" width="8" height="8" fill="#93C5FD" rx="2" ry="2" />
+</svg>
